@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Protestancy destitute of Scripture-proofs</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56075</idno>
+            <idno type="STC">Wing P3817</idno>
+            <idno type="STC">ESTC R217047</idno>
+            <idno type="EEBO-CITATION">99828748</idno>
+            <idno type="PROQUEST">99828748</idno>
+            <idno type="VID">33179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33179)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1957:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Protestancy destitute of Scripture-proofs</title>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hills, printer to the King's Most Excellent Majesty, for his houshold and chappel,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestantism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:33179:1"/>
+            <pb n="1" facs="tcp:33179:1" rendition="simple:additions"/>
+            <head>PROTESTANCY DESTITUTE OF Scripture-Proofs.</head>
+            <p>A Requeſt was, ſome time ago, made to Prote<g ref="char:EOLhyphen"/>ſtants to produce, for ſixteen of their poſi<g ref="char:EOLhyphen"/>tive Tenets, plain Scriptures: Scriptures, but ſo plain to Us, for their Doctrines, as they require to be yielded them by the Catholic Church for Her's.</p>
+            <p>An Anſwer was return'd diſclaiming ſome (how conſi<g ref="char:EOLhyphen"/>ſtently with their impoſed Doctrines will be examined in due place), and evading other of the Propoſitions; alledg<g ref="char:EOLhyphen"/>ing alſo Scriptures ſo perverſely for ſuch as are own'd; that the Requeſter concluded the Pamphlet unworthy a public or ſpecial notice, and expected, if not more perti<g ref="char:EOLhyphen"/>nent, yet at leaſt more plauſible Replies to follow; ex<g ref="char:EOLhyphen"/>cept Proteſtants (who have hitherto boaſted that Scri<g ref="char:EOLhyphen"/>pture is the Rule of their Faith) meant their Profeſſion ſhould be expoſed by ſilence or a ſilly Defence, and, for the future, eſteemed deſtitute of any Divine Evidence.</p>
+            <p>But, ſince the Requeſter hears no better of the Matter, and to prevent an Imagination that he acquieſces in the Anſwer as ſatisfactory, He thinks it expedient to draw up a brief Remark upon it.</p>
+            <p>Thoſe of the Thirty nine Articles, which are oppoſed to Catholic Religion, contain Affirmative Propoſitions, or may be reſolved into equivalent Affirmatives; where<g ref="char:EOLhyphen"/>upon, the Pretence of Negative Articles is a Subterfuge
+<pb n="2" facs="tcp:33179:2"/>to eſcap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proving their Tenets: But, if it were true, that their Faith (contradictory to ours) were concerning Nega<g ref="char:EOLhyphen"/>tives only; yet this Plea ſeems inſufficient to exempt Proteſtants from that Duty; becauſe, tho for a Negative, or every Non-Aſſent, or Suſpence of Aſſent, a Reaſon may not be given or required; yet, for Belief (a deliberate Act of the Mind), for a ſolemn Profeſſion, Subſcription, and Swearing of that Belief (whether it be of Negatives or Affirmatives) a Reaſon may be aſſign'd and required: Un<g ref="char:EOLhyphen"/>leſs Belief may be without ground and motive; unleſs Sub<g ref="char:EOLhyphen"/>ſcriptions and Oaths may be exacted of ſuch as have nei<g ref="char:EOLhyphen"/>ther Why nor Wherefore (beſides Authority) for their com<g ref="char:EOLhyphen"/>pliance (which Proteſtants explode as blind Obedience); or, unleſs that no Man be obliged to render a Reaſon of the Faith that is in him, if he can convert his Opinions into equivalent Negatives: As what Doctrine may not? But does the Artifice of Negative Articles affect the Re<g ref="char:EOLhyphen"/>queſt propoſing Affirmatives only? If Proteſtants could prove their Doctrines, this fencing and tergiverſation a<g ref="char:EOLhyphen"/>bout Negative Articles would not be imploy'd, nor could They be kept from divulging their Plea.</p>
+            <p>As trifling and defective is the Anſwerer's Definition of the Proteſtants Belief of Negatives: for they believe (if their Faith may be Collected from the Thirty nine Articles) not only that the oppoſite Affirmatives are not in Scripture (for they may not be there and yet be true), but alſo that they are<note n="*" place="margin">
+                  <hi>Article</hi> 14.22.24.28.</note> rather, and plainly, repugnant to Scripture, and the Teach<g ref="char:EOLhyphen"/>ers of them arrogant, impious, <hi>&amp;c.</hi> (which if they be, they are falſe and Anti-chriſtian). Now to characterize Doctrines ſo ignominiouſly, and, when importuned to prove the ſlander by Scripture, to ſhift off the Charge by ſaying <hi>Their belief of Negatives is only believing ſuch a Doctrine is not in Scripture,</hi> will not ſerve our turn, that expect ſa<g ref="char:EOLhyphen"/>tisfaction by their, either proving themſelves no Calum<g ref="char:EOLhyphen"/>niators, or retracting their Calumnies.</p>
+            <pb n="3" facs="tcp:33179:2"/>
+            <p>Having ſaid this to ſhew Proteſtants obliged to give Scripture Reaſons, for their Belief of Negatives, had the Requeſter demanded them: We paſs to examine the Anſwers to the Propoſitions, where we ſhall find no Scri<g ref="char:EOLhyphen"/>ptures produced for ſome of them; and for the Reſt, none that conclude and prove that for which they are quoted.</p>
+            <p>The Propoſitions, that Proteſtants ſhould prove by Scri<g ref="char:EOLhyphen"/>ture, are</p>
+            <div type="part">
+               <head>I. Scripture is clear, in all Neceſſaries, to every ſo<g ref="char:EOLhyphen"/>ber Enquirer.</head>
+               <p>
+                  <hi>Pſ.</hi> 119.105. and 1. (it ſhould be 2.) <hi>Tim.</hi> 3.15. are brought to juſtifie this Tenet; but had theſe Texts been truly quoted, they do not reach the Propoſition to be proved: for, if the <hi>Word of God were a Light to the Pro<g ref="char:EOLhyphen"/>phet</hi> David<hi>'s feet: If all Scripture be given that the Man of God may be perfect;</hi> yet a perſpicuity of Scripture, in all neceſſaries, to every ſober Enquirer, cannot be deduced thence; except every ſober Enquirer be a <hi>Prophet,</hi> or a <hi>Man of God,</hi> or, at leaſt, <hi>ſubject to ſuch:</hi> But <hi>this Notion</hi> of ſober Enquiry involves the Catholic Doctrine of Sub<g ref="char:EOLhyphen"/>miſſion of Judgment to Church Guides, which would have prevented, and quite overthrows all Proteſtancy. And ſure this Author intends not by ſober Enquiry what ſpoils his Profeſſion.</p>
+            </div>
+            <div type="part">
+               <head>II. The Secular Prince hath all Spiritual Juriſdicti<g ref="char:EOLhyphen"/>on and Authority immediately from and under God.</head>
+               <p>The Anſwerer behaves himſelf as if He were in appre<g ref="char:EOLhyphen"/>henſions, and durſt neither own nor reject this Tenet. The Reaſons are obvious: Yet, at length, He inclines towards it, and thinks, <hi>Rom.</hi> 13.1. proves it. Indeed, that Scri<g ref="char:EOLhyphen"/>pture either ſounds too much, or ſignifies nothing at all, to his purpoſe. If it proves what He thinks, it proves more
+<pb n="4" facs="tcp:33179:3"/>than He grants. It proves miniſtring the Word and Sa<g ref="char:EOLhyphen"/>craments to belong to the higher Powers. It leaves this Author's Church no Rights independent, no Juriſdiction inherent, no Power inalienable, unleſs miniſtring the Word and Sacraments be not a Soul-affair, be no act of Power;<note place="margin">
+                     <hi>Pag.</hi> 18.</note> in ſhort, it will inveſt every Prince with Spiritual Juriſdiction properly ſo call'd; tho this Author ſays, the Head of his Church has it not.</p>
+            </div>
+            <div type="part">
+               <head>III. Juſtification by Faith alone (<hi>viz.</hi> a Perſuaſion that we are juſtified) is a wholeſome Doctrine.</head>
+               <p>The Anſwerer ſays, his Church does not teach this Te<g ref="char:EOLhyphen"/>net, and we know ſome of his Communion have con<g ref="char:EOLhyphen"/>demned it. What then? Are we any more bound to con<g ref="char:EOLhyphen"/>clude thence, his Church does not teach it, than Prote<g ref="char:EOLhyphen"/>ſtants are, from the Decrees of our General Councils, and our conſtant Profeſſion, againſt a Doctrine, they impute to us and to the Catholic Church, that we and the Catholic Church hold not as they accuſe us, and Her to do? Be<g ref="char:EOLhyphen"/>ſides, we muſt ſuppoſe His Church to teach now as She was taught, and did teach, in <hi>Edward</hi> the Sixths time, when the Articles were deviſed by <hi>Cranmer:</hi> But that Wor<g ref="char:EOLhyphen"/>thy and his Complices were conſtant Diſciples of <hi>Luther,</hi> in <hi>Crede fortiter, &amp;c.</hi> Tho in Conſubſtantiation they de<g ref="char:EOLhyphen"/>ſerted Him. Again, not only the <hi>Antinomians</hi> plead the Doctrine of the Eleventh Article as the Parent of their Irreligion, but the ſtricteſt Adherers to the Primitive Re<g ref="char:EOLhyphen"/>formers in Doctrine (the Puritans) aſſert this Solifidian Parentheſis as the genuine and literal Senſe of Juſtification by Faith alone, and of the Eleventh Article. The very ſame Doctrine was the firſt new Light beſtow'd on the Apo<g ref="char:EOLhyphen"/>ſtle of the Reformation by the Prince of Darkneſs. But this Author might have given us a Text aſſerting what He confeſſes his Church to teach; <hi>viz.</hi> that Juſtification by Faith only is a moſt wholeſome Doctrine and very full of
+<pb n="5" facs="tcp:33179:3"/>comfort; which intimates no neceſſity of Repentance to Juſtification, none of the Sacraments, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>IV. The Subſtance of Bread and Wine remains after, what it was before, Sacerdotal Conſecration.</head>
+               <p>
+                  <hi>This is my Body,</hi> is an expreſs proof (or the Anſwerer brings no Scripture proof), That the Subſtance of Bread and Wine remains after, <hi>&amp;c.</hi> But, literally underſtood, this Text is expreſs that the Subſtance of Bread, <hi>&amp;c.</hi> does not remain at all after Conſecration: For the Euchariſt is Chriſt's Body and Blood; which, if ſubſtantially Bread and Wine, it cannot really be. A change, leſs than that of the ſubſtance of the Elements, is inſufficient to ren<g ref="char:EOLhyphen"/>der them really and truly, what the Text ſays they are, af<g ref="char:EOLhyphen"/>ter Conſecration.</p>
+            </div>
+            <div type="part">
+               <head>V. Our Lord's Preſence in the Euchariſt is meerly gracious and influential, and, if more, only to the Faithful.</head>
+               <p>If He learn'd from his Church what he Writes, then this Tenet is Her's: For, does not this Anſwerer aſſert our Lord's Euchariſtical Preſence not to be ſubſtantial; therefore (unleſs entirely abſent) our Lord muſt be pre<g ref="char:EOLhyphen"/>ſent in the Euchariſt by Grace and Influence only? What is there, beſides Subſtance and Efficacy, belonging to our Saviour's Body and Blood? No Colour of Scripture is pro<g ref="char:EOLhyphen"/>duced for this <hi>Zuinglian</hi> Propoſition.</p>
+            </div>
+            <div type="part">
+               <head>VI. Adoration of the Euchariſt (<hi>i. e.</hi> of our Saviour under the Species of Bread and Wine) is Idolatry.</head>
+               <p>This blaſphemous Tenet is taught by the Anſwerer's Church; for, did not the Majority of it's pretended Bi<g ref="char:EOLhyphen"/>ſhops vote for the Teſt? Do not all of them take it? Is not that Teſt a Canon of their General Council, The Par<g ref="char:EOLhyphen"/>liament?
+<pb n="6" facs="tcp:33179:4"/>But this Teſt declares our Adoration of the Eu<g ref="char:EOLhyphen"/>chariſt (which is the Adoration of nothing but Jeſus Chriſt) to be Idolatry. Not one jot of Scripture does this Author produce in defence of this their Teſt and Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            </div>
+            <div type="part">
+               <head>VII. All Chriſtians, whenever they Communicate, are obliged to receive in both Kinds.</head>
+               <p>Nor for this point can a Scripture Command be diſco<g ref="char:EOLhyphen"/>vered in the Anſwer; tho the Thirtieth Article affirms, that both parts of the Lord's Sacrament, by Chriſt's Ordinance and Commandment, ought to be miniſtred to all Chriſtian Men alike.</p>
+            </div>
+            <div type="part">
+               <head>VIII. Chaſtity, deliberately vow'd, may be inoffenſively violated.</head>
+               <p>This Propoſition is a Doctrine of the Anſwerer's Church, except His be not the ſame Church with <hi>Edward</hi> the Sixths, or the thirty Second Article have now another ſenſe than when compoſed by <hi>Cranmer:</hi> For all Biſhops and Prieſts then in the <hi>Weſtern</hi> Church had deliberately vow'd Chaſtity, and the Article ſays 'tis lawful for them to Marry, which certainly violates their Vow. No Scri<g ref="char:EOLhyphen"/>pture is alledged juſtifying a Tenet ſo impure, ſo perfi<g ref="char:EOLhyphen"/>dious.</p>
+            </div>
+            <div type="part">
+               <head>IX, All Chriſtian Excellencies are Commanded.</head>
+               <p>
+                  <hi>Phil.</hi> 4.8. Is quoted as comprehending all Chriſtian Excellencies: If it do ſo; yet, unleſs, beſides comprehend<g ref="char:EOLhyphen"/>ing, it command them, that Scripture will not prove the Tenet. Nor can the Anſwerer conclude from the Mode of it's expreſſion, that It does command them; becauſe 'tis common to an Exhortation as well as Precept, as Pro<g ref="char:EOLhyphen"/>teſtants muſt confeſs, who affirm <hi>Paſce Oves</hi> to be One:
+<pb n="7" facs="tcp:33179:4"/>The ſame Anſwer will ſerve for <hi>Be ye perfect:</hi> And, for <hi>to whom much is given, of them, much ſhall be required</hi> This imports, that proportion (not equality) muſt be in our Accounts to our Abilities. But how does this Scri<g ref="char:EOLhyphen"/>pture accord with this Author's Doctrine, that we muſt always reckon the Heights and perfections of Vertues are commanded? The Account correſponds to our Abilities (ſo ſure does the Command) but all Abilities are not the ſame in all; how then can God's Commands be ſo to all, as they are, if He always injoyns the Heights and perfections of Vertues; unleſs perfections and Heights may have degrees, which alſo makes little for this Au<g ref="char:EOLhyphen"/>thor. If, to ſupererogate did ſignifie (with Catholics) to profit God; then the Fourteenth Article (condemning the Teachers of Works of Supererogation, of Arrogance and Impiety) had been ſolidly founded on <hi>when you have done all that are commanded to you, ſay, we are unprofitable Servants.</hi> But we meaning no ſuch thing, the Article perverts Scripture.</p>
+            </div>
+            <div type="part">
+               <head>X. Every Soul, as ſoon as expired, is convey'd to Heaven or Hell.</head>
+               <p>The Parable of <hi>Dives</hi> and <hi>Lazarus,</hi> and St. <hi>Paul</hi>'s de<g ref="char:EOLhyphen"/>ſire to be diſſolv'd, <hi>&amp;c.</hi> Our Author ſays, look fairly to<g ref="char:EOLhyphen"/>wards this Tenet: So they do, if three Souls be All; or All Souls expire in either <hi>Dive</hi>'s fitneſs for Hell, or <hi>La<g ref="char:EOLhyphen"/>zarus</hi>'s and St. <hi>Paul</hi>'s for Heaven.</p>
+            </div>
+            <div type="part">
+               <head>XI. Deſiring the Interceſſions of the Bleſſed, is more Superſtitious, and Derogatory to our Lord's Media<g ref="char:EOLhyphen"/>tor ſhip, than intreating the Prayers of Holy Men Mili<g ref="char:EOLhyphen"/>tant.</head>
+               <p>It is not at all in Scripture that our Saviour is our only
+<pb n="8" facs="tcp:33179:5"/>Mediator of Interceſſion; therefore this Propoſition is not plain there. If ſuch an only Mediatorſhip of Interceſ<g ref="char:EOLhyphen"/>ſion be plain in Scripture, it had been eaſie and kind to have named ſuch a plain Scripture. Yet none is brought, unleſs the Anſwerer meant, <hi>Thou ſhalt worſhip the Lord thy God,</hi> &amp;c. for ſuch a one. Truly, I ſee not, how he can deduce from it any thing to his purpoſe, till it appear that all Prayer is divine Worſhip, Or, that we pray to Saints juſt as we do to God.</p>
+            </div>
+            <div type="part">
+               <head>XII. Honouring the Croſs, the Reliques and Repre<g ref="char:EOLhyphen"/>ſentations of our Lord and his Saints, with that degree of Reverence as we do the Goſpels (commonly kiſs'd and ſworn by), Altar, and other Utenſils, is Idolatry.</head>
+               <p>Our General Councils tell Proteſtants we pay no other Honour to any Creature; their Teſt and Homily call the Honour, we pay to ſacred Perſons and Things, Idolatry. We muſt then either challenge Proteſtants to prove this Propoſition, or conclude them Calumniators. We know what we profeſs and practiſe to be as the Catholic Church teaches: We hear our Doctrine and Practice confidently ſaid, and ſolemnly ſubſcribed, to be Idolatry: Sure then we may conclude that Proteſtants believe the Propoſition, and decent it is they give a Reaſon of a Faith ſo injurious to the Catholic Church, or henceforward re<g ref="char:EOLhyphen"/>nounce it.</p>
+            </div>
+            <div type="part">
+               <head>XIII. The Pope is Antichriſt.</head>
+               <p>Do only ſome Proteſtants and no Homily (ſubſcribed as containing a Godly and Wholeſome Doctrine, neceſſary for theſe times, Article the Fifty Fifth) affirm the Pope to be Antichriſt? Yet we meet with no Scripture brought to prove this Godly, Neceſſary Doctrine.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:33179:5"/>
+               <head>XIV. Every Prayer, uſed in Divine Offices, muſt be in a Language Vulgar, and intelligible to every Auditor.</head>
+               <p>1 <hi>Cor.</hi> 14. Is pretended to prove this Tenet; when as the Apoſtle's mind is; that whoſoever had the Gift of a Tongue, ſtrange to all the Auditory, ſhould forbear to dictate therein Extempore Sermons, Prayers, <hi>&amp;c.</hi> con<g ref="char:EOLhyphen"/>taining Matter, as well as the Tongue, inſpired into the Speaker. I ſay, this Gift (of no uſe, but uſed for oſtenta<g ref="char:EOLhyphen"/>tion, in ſuch a Caſe) was to be reſerved till either the Speaker or ſome Auditor could and did interpret, that the reſt might edifie. Now will it follow from hence, that all the ſetled Forms of Divine Offices (to many of which there is no neceſſity that all ſpecially joyn and intend) be in the vulgar or intelligible to every Auditor? It is enough (to comply with the Apoſtles Doctrine), that all new, Extem<g ref="char:EOLhyphen"/>pore Prayers, and inſtructive or exhortatory Diſcourſes (by actions, ceremonies or circumſtances, or other way not interpretable) be, as they are, in the vulgar: But for the fixt Forms of Divine Offices, that they be in a Language the moſt certain and the moſt intelligible, not only in Chriſtendom but in every Auditory. Intelligible, I ſay, where needful, to every one by either Actions, Ceremo<g ref="char:EOLhyphen"/>nies, and Circumſtances, or by Cuſtom, affinity with the Vulgar, or Books interpreting, and containing Prayers correſpondent to every part wherein the Auditory is con<g ref="char:EOLhyphen"/>cerned.</p>
+            </div>
+            <div type="part">
+               <head>XV. A Company of Chriſtians, voluntarily ſeparating from all other Chriſtian Societies, condemning their Do<g ref="char:EOLhyphen"/>ctrines and Rites, deſtitute alſo of any viſible Correſpon<g ref="char:EOLhyphen"/>dence with them in the Euchariſt, in any Religious Aſſem<g ref="char:EOLhyphen"/>blies or ſolemn Devotions, can, notwithſtanding this per<g ref="char:EOLhyphen"/>verſe, entire, and manifeſt ſeparation be a Myſtical Mem<g ref="char:EOLhyphen"/>ber
+<pb n="10" facs="tcp:33179:6"/>of Chriſt, in Catholic Unity, and a Charitable part of the Catholic Church.</head>
+               <p>This Propoſition relates to Matter of Fact of the high<g ref="char:EOLhyphen"/>eſt Moment, which we affirm Proteſtants to have done; and deſire them to make out by Scripture the lawfulneſs of it, and it's conſiſtency with Catholic Unity and Chari<g ref="char:EOLhyphen"/>ty. If 2 <hi>Cor.</hi> 6.17. <hi>Come out from among them, and be ye ſeparate, ſaith the Lord, and touch not the unclean thing, and I will receive you,</hi> be intended for a proof of it; then it muſt import that it is the Duty of one Chriſtian, or a Party pre<g ref="char:EOLhyphen"/>tending to be a National Church, to come out of the Ca<g ref="char:EOLhyphen"/>tholic Church, and be ſeparate from Her, as from an Un<g ref="char:EOLhyphen"/>clean Thing, that God may receive them. Leſs than this will not reach the Proteſtant Caſe, and ſo much as this, will by no means agree with One, Holy Church, wherein alone the Communion of Saints, Remiſſion of Sins and Life Ever<g ref="char:EOLhyphen"/>laſting are to be found. Yet a properer Text this Author does not alledge to Patronize his Schiſm.</p>
+            </div>
+            <div type="part">
+               <head>XVI. The whole Clergy of the Catholic Church may Apoſtatize from fundamental Truth and Holineſs; whilſt part of a National Laity may preſerve both, diſcover the Clergie's Defection, and depriving them, heap to Them<g ref="char:EOLhyphen"/>ſelves Teachers of their own Sending and Inſtruction.</head>
+               <p>This Apoſtacy (at the leaſt) is taught in the Nineteenth and Twenty Firſt Articles and Homily againſt the Pe<g ref="char:EOLhyphen"/>ril of Idolatry. And, Lay-ſupremacy (recognized to be in Queen <hi>Elizabeth</hi> by the Laity only) gave Prelatic Mi<g ref="char:EOLhyphen"/>niſters all the Miſſion and Inſtructions they have. Now we deſire to ſee proved by Scripture, that ſuch Apoſta<g ref="char:EOLhyphen"/>cy ſhould ever befal God's Church and Clergy, and that the Laity have ſuch Authority to deprive and create Cler<g ref="char:EOLhyphen"/>gy-men, to teach and ſend them. The Anſwerer is mute
+<pb n="11" facs="tcp:33179:6"/>as to Proofs, and manifeſts himſelf, either meanly verſed in the Story of his Party, or no Friend to Ingenuity and Truth: For, He confidently ſays, all the World knows it to be falſe, That only a Major Vote of a Parliament of Lay-men in <hi>England</hi> condemned and rejected the Doctrines of the Church of <hi>Rome.</hi> Yet this is certainly true and atteſted by Proteſtant Hiſtorians and Records, which aſ<g ref="char:EOLhyphen"/>ſure us that all the Biſhops and the whole Convocation declared againſt Lay-ſupremacy and other Proteſtant Points and for Non-compliance therewith, were almoſt all deprived: The Queen and Her Lay-Parliament enact<g ref="char:EOLhyphen"/>ing Supremacy, whereby ſhe impoſed new Doctrines, diſplaced the Catholic Clergy and created Prelatic Mini<g ref="char:EOLhyphen"/>ſters: This then is the true State of Prelatic Proteſtancy, and one would think being a change concerning Reli<g ref="char:EOLhyphen"/>gion ſhould have ſome Scripture, or becauſe extraordi<g ref="char:EOLhyphen"/>nary ſhould have Miracles, to countenance it: But juſt ſo much of the One as of the Other appears in it's behalf. And this is enough to manifeſt how deſtitute of Scripture-Warrant Proteſtant Opinions and Practices are, and that the Requeſt is not anſwered.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent Majeſty, For his Houſhold and Chappel, 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
